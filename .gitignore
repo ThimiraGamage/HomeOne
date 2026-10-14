@@ -1,0 +1,7 @@
+node_modules
+dist/
+.env
+.env.*
+!.env.example
+# Local extraction of the supplied planning PDF.
+docs/REFERENCE_PDF_TEXT.txt
